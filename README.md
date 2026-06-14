@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Sharanya Mukherjee 👋
 
-<!--
-**sharamukh27-art/sharamukh27-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 First-year B.Tech student at IEM Newtown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Programming, Problem Solving, and Software Development
+
+🚀 Currently learning C Programming, Data Structures, and Web Development
+
+📚 Dedicated to building strong technical foundations and developing real-world projects
+
+🌱 Always exploring new technologies and improving my skills
+
+---
+
+## Skills
+
+- C Programming
+- Problem Solving
+- Git & GitHub
+- HTML & CSS (Learning)
+- Data Structures & Algorithms (Learning)
+
+---
+
+## Current Focus
+
+- Strengthening programming fundamentals
+- Practicing coding and problem-solving
+- Building personal projects
+- Learning version control with Git & GitHub
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sharanya-mukherjee-535896326
+
+---
+
+## Motto
+
+> "Consistency beats intensity when it comes to learning."
+
+<
